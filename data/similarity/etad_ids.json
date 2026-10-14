@@ -1,0 +1,2248 @@
+{
+ "source": "research/ftir_hips_chem/output/tables/vibes_colab_cloud/persistent_results/full-83dcf32e86bc0f09/cases.csv",
+ "n": 253,
+ "n_shared": 0,
+ "ids": {
+  "ETAD-0001": [
+   "etad:445"
+  ],
+  "ETAD-0002": [
+   "etad:446"
+  ],
+  "ETAD-0003": [
+   "etad:447"
+  ],
+  "ETAD-0004": [
+   "etad:448"
+  ],
+  "ETAD-0005": [
+   "etad:449"
+  ],
+  "ETAD-0006": [
+   "etad:450"
+  ],
+  "ETAD-0008": [
+   "etad:452"
+  ],
+  "ETAD-0017": [
+   "etad:401"
+  ],
+  "ETAD-0018": [
+   "etad:402"
+  ],
+  "ETAD-0019": [
+   "etad:403"
+  ],
+  "ETAD-0020": [
+   "etad:404"
+  ],
+  "ETAD-0021": [
+   "etad:405"
+  ],
+  "ETAD-0022": [
+   "etad:406"
+  ],
+  "ETAD-0024": [
+   "etad:408"
+  ],
+  "ETAD-0033": [
+   "etad:453"
+  ],
+  "ETAD-0034": [
+   "etad:454"
+  ],
+  "ETAD-0035": [
+   "etad:455"
+  ],
+  "ETAD-0036": [
+   "etad:456"
+  ],
+  "ETAD-0037": [
+   "etad:457"
+  ],
+  "ETAD-0038": [
+   "etad:458"
+  ],
+  "ETAD-0040": [
+   "etad:460"
+  ],
+  "ETAD-0041": [
+   "etad:848"
+  ],
+  "ETAD-0042": [
+   "etad:849"
+  ],
+  "ETAD-0043": [
+   "etad:850"
+  ],
+  "ETAD-0044": [
+   "etad:851"
+  ],
+  "ETAD-0045": [
+   "etad:852"
+  ],
+  "ETAD-0046": [
+   "etad:853"
+  ],
+  "ETAD-0048": [
+   "etad:855"
+  ],
+  "ETAD-0049": [
+   "etad:856"
+  ],
+  "ETAD-0050": [
+   "etad:857"
+  ],
+  "ETAD-0051": [
+   "etad:858"
+  ],
+  "ETAD-0052": [
+   "etad:859"
+  ],
+  "ETAD-0053": [
+   "etad:860"
+  ],
+  "ETAD-0054": [
+   "etad:861"
+  ],
+  "ETAD-0056": [
+   "etad:863"
+  ],
+  "ETAD-0057": [
+   "etad:1011"
+  ],
+  "ETAD-0058": [
+   "etad:1012"
+  ],
+  "ETAD-0059": [
+   "etad:1013"
+  ],
+  "ETAD-0060": [
+   "etad:1014"
+  ],
+  "ETAD-0061": [
+   "etad:1015"
+  ],
+  "ETAD-0062": [
+   "etad:1016"
+  ],
+  "ETAD-0064": [
+   "etad:1018"
+  ],
+  "ETAD-0065": [
+   "etad:1019"
+  ],
+  "ETAD-0066": [
+   "etad:1020"
+  ],
+  "ETAD-0067": [
+   "etad:1021"
+  ],
+  "ETAD-0068": [
+   "etad:1022"
+  ],
+  "ETAD-0069": [
+   "etad:1023"
+  ],
+  "ETAD-0070": [
+   "etad:1024"
+  ],
+  "ETAD-0072": [
+   "etad:1026"
+  ],
+  "ETAD-0073": [
+   "etad:1461"
+  ],
+  "ETAD-0074": [
+   "etad:1462"
+  ],
+  "ETAD-0075": [
+   "etad:1463"
+  ],
+  "ETAD-0076": [
+   "etad:1464"
+  ],
+  "ETAD-0077": [
+   "etad:1465"
+  ],
+  "ETAD-0078": [
+   "etad:1466"
+  ],
+  "ETAD-0080": [
+   "etad:1468"
+  ],
+  "ETAD-0081": [
+   "etad:1469"
+  ],
+  "ETAD-0082": [
+   "etad:1470"
+  ],
+  "ETAD-0083": [
+   "etad:1471"
+  ],
+  "ETAD-0084": [
+   "etad:1472"
+  ],
+  "ETAD-0085": [
+   "etad:1473"
+  ],
+  "ETAD-0086": [
+   "etad:1474"
+  ],
+  "ETAD-0088": [
+   "etad:1476"
+  ],
+  "ETAD-0089": [
+   "etad:1670"
+  ],
+  "ETAD-0090": [
+   "etad:1671"
+  ],
+  "ETAD-0091": [
+   "etad:1672"
+  ],
+  "ETAD-0092": [
+   "etad:1673"
+  ],
+  "ETAD-0093": [
+   "etad:1674"
+  ],
+  "ETAD-0094": [
+   "etad:1675"
+  ],
+  "ETAD-0096": [
+   "etad:1677"
+  ],
+  "ETAD-0097": [
+   "etad:1678"
+  ],
+  "ETAD-0098": [
+   "etad:1679"
+  ],
+  "ETAD-0099": [
+   "etad:1680"
+  ],
+  "ETAD-0100": [
+   "etad:1681"
+  ],
+  "ETAD-0101": [
+   "etad:1682"
+  ],
+  "ETAD-0102": [
+   "etad:1683"
+  ],
+  "ETAD-0104": [
+   "etad:1685"
+  ],
+  "ETAD-0105": [
+   "etad:1936"
+  ],
+  "ETAD-0106": [
+   "etad:1937"
+  ],
+  "ETAD-0107": [
+   "etad:1938"
+  ],
+  "ETAD-0108": [
+   "etad:1939"
+  ],
+  "ETAD-0109": [
+   "etad:1940"
+  ],
+  "ETAD-0110": [
+   "etad:1941"
+  ],
+  "ETAD-0112": [
+   "etad:1943"
+  ],
+  "ETAD-0113": [
+   "etad:1944"
+  ],
+  "ETAD-0114": [
+   "etad:1945"
+  ],
+  "ETAD-0115": [
+   "etad:1946"
+  ],
+  "ETAD-0116": [
+   "etad:1947"
+  ],
+  "ETAD-0117": [
+   "etad:1948"
+  ],
+  "ETAD-0118": [
+   "etad:1949"
+  ],
+  "ETAD-0120": [
+   "etad:1951"
+  ],
+  "ETAD-0121": [
+   "etad:1952"
+  ],
+  "ETAD-0122": [
+   "etad:1953"
+  ],
+  "ETAD-0123": [
+   "etad:1954"
+  ],
+  "ETAD-0124": [
+   "etad:1955"
+  ],
+  "ETAD-0125": [
+   "etad:1956"
+  ],
+  "ETAD-0126": [
+   "etad:1957"
+  ],
+  "ETAD-0128": [
+   "etad:1959"
+  ],
+  "ETAD-0129": [
+   "etad:1960"
+  ],
+  "ETAD-0130": [
+   "etad:1961"
+  ],
+  "ETAD-0131": [
+   "etad:1962"
+  ],
+  "ETAD-0132": [
+   "etad:1963"
+  ],
+  "ETAD-0133": [
+   "etad:1964"
+  ],
+  "ETAD-0134": [
+   "etad:1965"
+  ],
+  "ETAD-0136": [
+   "etad:1967"
+  ],
+  "ETAD-0137": [
+   "etad:2353"
+  ],
+  "ETAD-0138": [
+   "etad:2354"
+  ],
+  "ETAD-0139": [
+   "etad:2355"
+  ],
+  "ETAD-0140": [
+   "etad:2356"
+  ],
+  "ETAD-0141": [
+   "etad:2357"
+  ],
+  "ETAD-0142": [
+   "etad:2358"
+  ],
+  "ETAD-0144": [
+   "etad:2360"
+  ],
+  "ETAD-0145": [
+   "etad:2361"
+  ],
+  "ETAD-0146": [
+   "etad:2362"
+  ],
+  "ETAD-0147": [
+   "etad:2363"
+  ],
+  "ETAD-0148": [
+   "etad:2364"
+  ],
+  "ETAD-0149": [
+   "etad:2365"
+  ],
+  "ETAD-0150": [
+   "etad:2366"
+  ],
+  "ETAD-0152": [
+   "etad:2368"
+  ],
+  "ETAD-0153": [
+   "etad:2737"
+  ],
+  "ETAD-0154": [
+   "etad:2738"
+  ],
+  "ETAD-0155": [
+   "etad:2739"
+  ],
+  "ETAD-0156": [
+   "etad:2740"
+  ],
+  "ETAD-0157": [
+   "etad:2741"
+  ],
+  "ETAD-0158": [
+   "etad:2742"
+  ],
+  "ETAD-0160": [
+   "etad:2744"
+  ],
+  "ETAD-0161": [
+   "etad:2745"
+  ],
+  "ETAD-0162": [
+   "etad:2746"
+  ],
+  "ETAD-0163": [
+   "etad:2747"
+  ],
+  "ETAD-0164": [
+   "etad:2748"
+  ],
+  "ETAD-0165": [
+   "etad:2749"
+  ],
+  "ETAD-0166": [
+   "etad:2750"
+  ],
+  "ETAD-0168": [
+   "etad:2752"
+  ],
+  "ETAD-0169": [
+   "etad:2753"
+  ],
+  "ETAD-0170": [
+   "etad:2754"
+  ],
+  "ETAD-0171": [
+   "etad:2755"
+  ],
+  "ETAD-0172": [
+   "etad:2756"
+  ],
+  "ETAD-0173": [
+   "etad:2757"
+  ],
+  "ETAD-0174": [
+   "etad:2758"
+  ],
+  "ETAD-0176": [
+   "etad:2760"
+  ],
+  "ETAD-0177": [
+   "etad:2761"
+  ],
+  "ETAD-0178": [
+   "etad:2762"
+  ],
+  "ETAD-0179": [
+   "etad:2763"
+  ],
+  "ETAD-0180": [
+   "etad:2764"
+  ],
+  "ETAD-0181": [
+   "etad:2765"
+  ],
+  "ETAD-0182": [
+   "etad:2766"
+  ],
+  "ETAD-0184": [
+   "etad:2768"
+  ],
+  "ETAD-0185": [
+   "etad:2777"
+  ],
+  "ETAD-0186": [
+   "etad:2778"
+  ],
+  "ETAD-0187": [
+   "etad:2779"
+  ],
+  "ETAD-0188": [
+   "etad:2780"
+  ],
+  "ETAD-0189": [
+   "etad:2781"
+  ],
+  "ETAD-0190": [
+   "etad:2782"
+  ],
+  "ETAD-0192": [
+   "etad:2784"
+  ],
+  "ETAD-0193": [
+   "etad:2785"
+  ],
+  "ETAD-0194": [
+   "etad:2786"
+  ],
+  "ETAD-0195": [
+   "etad:2787"
+  ],
+  "ETAD-0196": [
+   "etad:2788"
+  ],
+  "ETAD-0197": [
+   "etad:2789"
+  ],
+  "ETAD-0198": [
+   "etad:2790"
+  ],
+  "ETAD-0200": [
+   "etad:2792"
+  ],
+  "ETAD-0201": [
+   "etad:3041"
+  ],
+  "ETAD-0202": [
+   "etad:3042"
+  ],
+  "ETAD-0203": [
+   "etad:3043"
+  ],
+  "ETAD-0204": [
+   "etad:3044"
+  ],
+  "ETAD-0205": [
+   "etad:3045"
+  ],
+  "ETAD-0206": [
+   "etad:3046"
+  ],
+  "ETAD-0208": [
+   "etad:3048"
+  ],
+  "ETAD-0217": [
+   "etad:3161"
+  ],
+  "ETAD-0218": [
+   "etad:3162"
+  ],
+  "ETAD-0219": [
+   "etad:3163"
+  ],
+  "ETAD-0220": [
+   "etad:3164"
+  ],
+  "ETAD-0221": [
+   "etad:3165"
+  ],
+  "ETAD-0222": [
+   "etad:3166"
+  ],
+  "ETAD-0224": [
+   "etad:3168"
+  ],
+  "ETAD-0225": [
+   "etad:3169"
+  ],
+  "ETAD-0226": [
+   "etad:3170"
+  ],
+  "ETAD-0227": [
+   "etad:3171"
+  ],
+  "ETAD-0228": [
+   "etad:3172"
+  ],
+  "ETAD-0229": [
+   "etad:3173"
+  ],
+  "ETAD-0230": [
+   "etad:3174"
+  ],
+  "ETAD-0232": [
+   "etad:3176"
+  ],
+  "ETAD-0233": [
+   "etad:3177"
+  ],
+  "ETAD-0234": [
+   "etad:3178"
+  ],
+  "ETAD-0235": [
+   "etad:3179"
+  ],
+  "ETAD-0236": [
+   "etad:3180"
+  ],
+  "ETAD-0237": [
+   "etad:3181"
+  ],
+  "ETAD-0238": [
+   "etad:3182"
+  ],
+  "ETAD-0240": [
+   "etad:3184"
+  ],
+  "ETAD-0241": [
+   "etad:3185"
+  ],
+  "ETAD-0242": [
+   "etad:3186"
+  ],
+  "ETAD-0243": [
+   "etad:3187"
+  ],
+  "ETAD-0244": [
+   "etad:3188"
+  ],
+  "ETAD-0245": [
+   "etad:3189"
+  ],
+  "ETAD-0246": [
+   "etad:3190"
+  ],
+  "ETAD-0249": [
+   "etad:3956"
+  ],
+  "ETAD-0250": [
+   "etad:3957"
+  ],
+  "ETAD-0251": [
+   "etad:3958"
+  ],
+  "ETAD-0252": [
+   "etad:3959"
+  ],
+  "ETAD-0253": [
+   "etad:3960"
+  ],
+  "ETAD-0254": [
+   "etad:3961"
+  ],
+  "ETAD-0257": [
+   "etad:3964"
+  ],
+  "ETAD-0258": [
+   "etad:3965"
+  ],
+  "ETAD-0259": [
+   "etad:3966"
+  ],
+  "ETAD-0260": [
+   "etad:3967"
+  ],
+  "ETAD-0261": [
+   "etad:3968"
+  ],
+  "ETAD-0262": [
+   "etad:3969"
+  ],
+  "ETAD-0265": [
+   "etad:3972"
+  ],
+  "ETAD-0266": [
+   "etad:3973"
+  ],
+  "ETAD-0267": [
+   "etad:3974"
+  ],
+  "ETAD-0268": [
+   "etad:3975"
+  ],
+  "ETAD-0269": [
+   "etad:3976"
+  ],
+  "ETAD-0270": [
+   "etad:3977"
+  ],
+  "ETAD-0273": [
+   "etad:3980"
+  ],
+  "ETAD-0274": [
+   "etad:3981"
+  ],
+  "ETAD-0275": [
+   "etad:3982"
+  ],
+  "ETAD-0276": [
+   "etad:3983"
+  ],
+  "ETAD-0277": [
+   "etad:3984"
+  ],
+  "ETAD-0278": [
+   "etad:3985"
+  ],
+  "ETAD-0281": [
+   "etad:3988"
+  ],
+  "ETAD-0282": [
+   "etad:3989"
+  ],
+  "ETAD-0283": [
+   "etad:3990"
+  ],
+  "ETAD-0284": [
+   "etad:3991"
+  ],
+  "ETAD-0285": [
+   "etad:3992"
+  ],
+  "ETAD-0286": [
+   "etad:3993"
+  ],
+  "ETAD-0297": [
+   "etad:4148"
+  ],
+  "ETAD-0298": [
+   "etad:4149"
+  ],
+  "ETAD-0299": [
+   "etad:4150"
+  ],
+  "ETAD-0300": [
+   "etad:4151"
+  ],
+  "ETAD-0301": [
+   "etad:4152"
+  ],
+  "ETAD-0302": [
+   "etad:4153"
+  ],
+  "ETAD-0304": [
+   "etad:4155"
+  ],
+  "ETAD-0305": [
+   "etad:4156"
+  ],
+  "ETAD-0306": [
+   "etad:4157"
+  ],
+  "ETAD-0307": [
+   "etad:4158"
+  ],
+  "ETAD-0308": [
+   "etad:4159"
+  ],
+  "ETAD-0309": [
+   "etad:4160"
+  ],
+  "ETAD-0310": [
+   "etad:4161"
+  ],
+  "ETAD-0312": [
+   "etad:4163"
+  ],
+  "ETAD-0313": [
+   "etad:4460"
+  ],
+  "ETAD-0314": [
+   "etad:4461"
+  ],
+  "ETAD-0315": [
+   "etad:4462"
+  ],
+  "ETAD-0316": [
+   "etad:4463"
+  ],
+  "ETAD-0317": [
+   "etad:4464"
+  ],
+  "ETAD-0318": [
+   "etad:4465"
+  ],
+  "ETAD-0320": [
+   "etad:4467"
+  ],
+  "ETAD-0321": [
+   "etad:4468"
+  ],
+  "ETAD-0322": [
+   "etad:4469"
+  ],
+  "ETAD-0323": [
+   "etad:4470"
+  ],
+  "ETAD-0324": [
+   "etad:4471"
+  ],
+  "ETAD-0325": [
+   "etad:4472"
+  ],
+  "ETAD-0326": [
+   "etad:4473"
+  ],
+  "ETAD-0328": [
+   "etad:4475"
+  ]
+ },
+ "status": {
+  "ETAD-0001": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0002": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0003": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0004": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0005": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0006": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0007": {
+   "in_run": false,
+   "in_test_set": false,
+   "note": "field blank (trains the VIBES background)"
+  },
+  "ETAD-0008": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0017": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0018": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0019": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0020": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0021": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0022": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0023": {
+   "in_run": false,
+   "in_test_set": false,
+   "note": "field blank (trains the VIBES background)"
+  },
+  "ETAD-0024": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0033": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0034": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0035": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0036": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0037": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0038": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0039": {
+   "in_run": false,
+   "in_test_set": false,
+   "note": "field blank (held out to check the VIBES background)"
+  },
+  "ETAD-0040": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0041": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0042": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0043": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0044": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0045": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0046": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0047": {
+   "in_run": false,
+   "in_test_set": false,
+   "note": "field blank (trains the VIBES background)"
+  },
+  "ETAD-0048": {
+   "in_run": true,
+   "in_test_set": false,
+   "note": "in the spectra run but not in the Addis test set: no HIPS Fabs and no sample date"
+  },
+  "ETAD-0049": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0050": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0051": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0052": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0053": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0054": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0055": {
+   "in_run": false,
+   "in_test_set": false,
+   "note": "field blank (trains the VIBES background)"
+  },
+  "ETAD-0056": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0057": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0058": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0059": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0060": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0061": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0062": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0063": {
+   "in_run": false,
+   "in_test_set": false,
+   "note": "field blank (held out to check the VIBES background)"
+  },
+  "ETAD-0064": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0065": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0066": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0067": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0068": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0069": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0070": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0071": {
+   "in_run": false,
+   "in_test_set": false,
+   "note": "field blank (held out to check the VIBES background)"
+  },
+  "ETAD-0072": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0073": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0074": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0075": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0076": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0077": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0078": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0079": {
+   "in_run": false,
+   "in_test_set": false,
+   "note": "field blank (trains the VIBES background)"
+  },
+  "ETAD-0080": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0081": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0082": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0083": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0084": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0085": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0086": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0087": {
+   "in_run": false,
+   "in_test_set": false,
+   "note": "field blank (trains the VIBES background)"
+  },
+  "ETAD-0088": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0089": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0090": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0091": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0092": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0093": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0094": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0095": {
+   "in_run": false,
+   "in_test_set": false,
+   "note": "field blank (trains the VIBES background)"
+  },
+  "ETAD-0096": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0097": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0098": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0099": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0100": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0101": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0102": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0103": {
+   "in_run": false,
+   "in_test_set": false,
+   "note": "field blank (trains the VIBES background)"
+  },
+  "ETAD-0104": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0105": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0106": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0107": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0108": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0109": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0110": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0111": {
+   "in_run": false,
+   "in_test_set": false,
+   "note": "field blank (trains the VIBES background)"
+  },
+  "ETAD-0112": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0113": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0114": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0115": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0116": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0117": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0118": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0119": {
+   "in_run": false,
+   "in_test_set": false,
+   "note": "field blank (trains the VIBES background)"
+  },
+  "ETAD-0120": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0121": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0122": {
+   "in_run": true,
+   "in_test_set": false,
+   "note": "in the spectra run but not in the Addis test set: no HIPS Fabs and no sample date"
+  },
+  "ETAD-0123": {
+   "in_run": true,
+   "in_test_set": false,
+   "note": "in the spectra run but not in the Addis test set: no HIPS Fabs and no sample date"
+  },
+  "ETAD-0124": {
+   "in_run": true,
+   "in_test_set": false,
+   "note": "in the spectra run but not in the Addis test set: no HIPS Fabs and no sample date"
+  },
+  "ETAD-0125": {
+   "in_run": true,
+   "in_test_set": false,
+   "note": "in the spectra run but not in the Addis test set: no HIPS Fabs and no sample date"
+  },
+  "ETAD-0126": {
+   "in_run": true,
+   "in_test_set": false,
+   "note": "in the spectra run but not in the Addis test set: no HIPS Fabs and no sample date"
+  },
+  "ETAD-0127": {
+   "in_run": false,
+   "in_test_set": false,
+   "note": "field blank (trains the VIBES background)"
+  },
+  "ETAD-0128": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0129": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0130": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0131": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0132": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0133": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0134": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0135": {
+   "in_run": false,
+   "in_test_set": false,
+   "note": "field blank (trains the VIBES background)"
+  },
+  "ETAD-0136": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0137": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0138": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0139": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0140": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0141": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0142": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0143": {
+   "in_run": false,
+   "in_test_set": false,
+   "note": "field blank (held out to check the VIBES background)"
+  },
+  "ETAD-0144": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0145": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0146": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0147": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0148": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0149": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0150": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0151": {
+   "in_run": false,
+   "in_test_set": false,
+   "note": "field blank (trains the VIBES background)"
+  },
+  "ETAD-0152": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0153": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0154": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0155": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0156": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0157": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0158": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0159": {
+   "in_run": false,
+   "in_test_set": false,
+   "note": "field blank (trains the VIBES background)"
+  },
+  "ETAD-0160": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0161": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0162": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0163": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0164": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0165": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0166": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0167": {
+   "in_run": false,
+   "in_test_set": false,
+   "note": "field blank (trains the VIBES background)"
+  },
+  "ETAD-0168": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0169": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0170": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0171": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0172": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0173": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0174": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0175": {
+   "in_run": false,
+   "in_test_set": false,
+   "note": "field blank (trains the VIBES background)"
+  },
+  "ETAD-0176": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0177": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0178": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0179": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0180": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0181": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0182": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0183": {
+   "in_run": false,
+   "in_test_set": false,
+   "note": "field blank (trains the VIBES background)"
+  },
+  "ETAD-0184": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0185": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0186": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0187": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0188": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0189": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0190": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0191": {
+   "in_run": false,
+   "in_test_set": false,
+   "note": "field blank (held out to check the VIBES background)"
+  },
+  "ETAD-0192": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0193": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0194": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0195": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0196": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0197": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0198": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0199": {
+   "in_run": false,
+   "in_test_set": false,
+   "note": "field blank (trains the VIBES background)"
+  },
+  "ETAD-0200": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0201": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0202": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0203": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0204": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0205": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0206": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0207": {
+   "in_run": false,
+   "in_test_set": false,
+   "note": "field blank (held out to check the VIBES background)"
+  },
+  "ETAD-0208": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0217": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0218": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0219": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0220": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0221": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0222": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0223": {
+   "in_run": false,
+   "in_test_set": false,
+   "note": "field blank (trains the VIBES background)"
+  },
+  "ETAD-0224": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0225": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0226": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0227": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0228": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0229": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0230": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0231": {
+   "in_run": false,
+   "in_test_set": false,
+   "note": "field blank (trains the VIBES background)"
+  },
+  "ETAD-0232": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0233": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0234": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0235": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0236": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0237": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0238": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0239": {
+   "in_run": false,
+   "in_test_set": false,
+   "note": "field blank (held out to check the VIBES background)"
+  },
+  "ETAD-0240": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0241": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0242": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0243": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0244": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0245": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0246": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0247": {
+   "in_run": false,
+   "in_test_set": false,
+   "note": "field blank (trains the VIBES background)"
+  },
+  "ETAD-0248": {
+   "in_run": false,
+   "in_test_set": false,
+   "note": "PM10 filter (it has HIPS Fabs), outside the PM2.5 comparison: no spectrum in the frozen run and not in the Addis test set"
+  },
+  "ETAD-0249": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0250": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0251": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0252": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0253": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0254": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0255": {
+   "in_run": false,
+   "in_test_set": false,
+   "note": "field blank (trains the VIBES background)"
+  },
+  "ETAD-0256": {
+   "in_run": false,
+   "in_test_set": false,
+   "note": "PM10 filter (it has HIPS Fabs), outside the PM2.5 comparison: no spectrum in the frozen run and not in the Addis test set"
+  },
+  "ETAD-0257": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0258": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0259": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0260": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0261": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0262": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0263": {
+   "in_run": false,
+   "in_test_set": false,
+   "note": "field blank (trains the VIBES background)"
+  },
+  "ETAD-0264": {
+   "in_run": false,
+   "in_test_set": false,
+   "note": "PM10 filter (it has HIPS Fabs), outside the PM2.5 comparison: no spectrum in the frozen run and not in the Addis test set"
+  },
+  "ETAD-0265": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0266": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0267": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0268": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0269": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0270": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0271": {
+   "in_run": false,
+   "in_test_set": false,
+   "note": "field blank (held out to check the VIBES background)"
+  },
+  "ETAD-0272": {
+   "in_run": false,
+   "in_test_set": false,
+   "note": "PM10 filter (it has HIPS Fabs), outside the PM2.5 comparison: no spectrum in the frozen run and not in the Addis test set"
+  },
+  "ETAD-0273": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0274": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0275": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0276": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0277": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0278": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0279": {
+   "in_run": false,
+   "in_test_set": false,
+   "note": "field blank (trains the VIBES background)"
+  },
+  "ETAD-0280": {
+   "in_run": false,
+   "in_test_set": false,
+   "note": "PM10 filter (it has HIPS Fabs), outside the PM2.5 comparison: no spectrum in the frozen run and not in the Addis test set"
+  },
+  "ETAD-0281": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0282": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0283": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0284": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0285": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0286": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0287": {
+   "in_run": false,
+   "in_test_set": false,
+   "note": "field blank (trains the VIBES background)"
+  },
+  "ETAD-0288": {
+   "in_run": false,
+   "in_test_set": false,
+   "note": "PM10 filter (it has HIPS Fabs), outside the PM2.5 comparison: no spectrum in the frozen run and not in the Addis test set"
+  },
+  "ETAD-0297": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0298": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0299": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0300": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0301": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0302": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0303": {
+   "in_run": false,
+   "in_test_set": false,
+   "note": "field blank (held out to check the VIBES background)"
+  },
+  "ETAD-0304": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0305": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0306": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0307": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0308": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0309": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0310": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0311": {
+   "in_run": false,
+   "in_test_set": false,
+   "note": "field blank (trains the VIBES background)"
+  },
+  "ETAD-0312": {
+   "in_run": true,
+   "in_test_set": true,
+   "note": "in the Addis test set (233 filters with HIPS Fabs and a spectrum in the frozen run)"
+  },
+  "ETAD-0313": {
+   "in_run": true,
+   "in_test_set": false,
+   "note": "in the spectra run but not in the Addis test set: no HIPS Fabs"
+  },
+  "ETAD-0314": {
+   "in_run": true,
+   "in_test_set": false,
+   "note": "in the spectra run but not in the Addis test set: no HIPS Fabs"
+  },
+  "ETAD-0315": {
+   "in_run": true,
+   "in_test_set": false,
+   "note": "in the spectra run but not in the Addis test set: no HIPS Fabs"
+  },
+  "ETAD-0316": {
+   "in_run": true,
+   "in_test_set": false,
+   "note": "in the spectra run but not in the Addis test set: no HIPS Fabs"
+  },
+  "ETAD-0317": {
+   "in_run": true,
+   "in_test_set": false,
+   "note": "in the spectra run but not in the Addis test set: no HIPS Fabs"
+  },
+  "ETAD-0318": {
+   "in_run": true,
+   "in_test_set": false,
+   "note": "in the spectra run but not in the Addis test set: no HIPS Fabs"
+  },
+  "ETAD-0319": {
+   "in_run": false,
+   "in_test_set": false,
+   "note": "field blank (trains the VIBES background)"
+  },
+  "ETAD-0320": {
+   "in_run": true,
+   "in_test_set": false,
+   "note": "in the spectra run but not in the Addis test set: no HIPS Fabs"
+  },
+  "ETAD-0321": {
+   "in_run": true,
+   "in_test_set": false,
+   "note": "in the spectra run but not in the Addis test set: no HIPS Fabs"
+  },
+  "ETAD-0322": {
+   "in_run": true,
+   "in_test_set": false,
+   "note": "in the spectra run but not in the Addis test set: no HIPS Fabs"
+  },
+  "ETAD-0323": {
+   "in_run": true,
+   "in_test_set": false,
+   "note": "in the spectra run but not in the Addis test set: no HIPS Fabs"
+  },
+  "ETAD-0324": {
+   "in_run": true,
+   "in_test_set": false,
+   "note": "in the spectra run but not in the Addis test set: no HIPS Fabs"
+  },
+  "ETAD-0325": {
+   "in_run": true,
+   "in_test_set": false,
+   "note": "in the spectra run but not in the Addis test set: no HIPS Fabs"
+  },
+  "ETAD-0326": {
+   "in_run": true,
+   "in_test_set": false,
+   "note": "in the spectra run but not in the Addis test set: no HIPS Fabs"
+  },
+  "ETAD-0327": {
+   "in_run": false,
+   "in_test_set": false,
+   "note": "field blank (trains the VIBES background)"
+  },
+  "ETAD-0328": {
+   "in_run": true,
+   "in_test_set": false,
+   "note": "in the spectra run but not in the Addis test set: no HIPS Fabs"
+  }
+ }
+}
