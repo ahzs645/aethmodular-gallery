@@ -4,9 +4,9 @@ Static build of the interactive gallery in [ahzs645/aethmodular](https://github.
 (`gallery/`), published with `gallery/share/publish_pages.py`. This repo holds only the built
 site; change the source repo, not these files.
 
-**Live page:** https://ahzs645.github.io/aethmodular-gallery/
+**Live page:** https://projects.ahmadjalil.com/aethmodular-gallery/
 
-Built 2026-10-14 21:08 UTC from aethmodular `c9ad023`.
+Built 2026-10-14 21:10 UTC from aethmodular `302d876`.
 
 ## Data
 
