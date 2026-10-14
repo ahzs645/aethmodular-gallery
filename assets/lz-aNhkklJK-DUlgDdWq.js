@@ -1,1 +1,0 @@
-import{n as r}from"./load-lzstring-7KRv9dos-Dth9G26I.js";import"./index-BgPz3qP4.js";var a={pack:!1,encode:!1,async compress(e){return(await r()).compressToEncodedURIComponent(String(e))},async decompress(e){let o=(await r()).decompressFromEncodedURIComponent(String(e));if(o===null)throw Error("Unable to decode lz codec payload");return o}};export{a as default};

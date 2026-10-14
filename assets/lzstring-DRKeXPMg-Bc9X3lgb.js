@@ -1,1 +1,0 @@
-import{n as e}from"./load-lzstring-7KRv9dos-Dth9G26I.js";import{b as o}from"./index-BgPz3qP4.js";var t={pack:!1,encode:!0,async compress(r){return o.Buffer.from((await e()).compressToUint8Array(String(r)))},async decompress(r){return(await e()).decompressFromUint8Array(typeof r=="string"?new TextEncoder().encode(r):o.Buffer.from(r))}};export{t as default};
