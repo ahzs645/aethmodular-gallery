@@ -1,2 +1,0 @@
-const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["./lzw-D6t7UTJ-.js","./index-DlU0x-DU.js","./index-Cbq_REyO.css"])))=>i.map(i=>d[i]);
-import{b as e,_ as f,e as n}from"./index-DlU0x-DU.js";var t=null;function o(){return t??(t=f(()=>import("./lzw-D6t7UTJ-.js").then(r=>r.l),__vite__mapDeps([0,1,2]),import.meta.url).then(r=>n(r))),t}var i={pack:!0,encode:!0,async compress(r){let a=e.Buffer.from(r);return e.Buffer.from((await o()).encode(a.toString("binary")))},async decompress(r){return e.Buffer.from((await o()).decode(e.Buffer.from(r)),"binary")}};export{i as default};
