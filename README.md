@@ -6,7 +6,7 @@ site; change the source repo, not these files.
 
 **Live page:** https://projects.ahmadjalil.com/aethmodular-gallery/
 
-Built 2026-10-15 16:01 UTC from aethmodular `93e94b3`.
+Built 2026-10-15 20:41 UTC from aethmodular `5ff1397`.
 
 ## Data
 
