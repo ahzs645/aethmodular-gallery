@@ -1,0 +1,1 @@
+import{b as f}from"./index-B76YnB8E.js";var t={pack:!1,encode:!0,async compress(r){return f.Buffer.from(typeof r=="string"?r:f.Buffer.from(r).toString("utf8"),"utf8")},async decompress(r){return f.Buffer.from(typeof r=="string"?f.Buffer.from(r,"utf8"):r).toString("utf8")}};export{t as default};
