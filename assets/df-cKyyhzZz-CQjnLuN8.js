@@ -1,0 +1,1 @@
+import{h as r,m as a}from"./index-DlU0x-DU.js";var t={pack:!1,encode:!0,async compress(e){return a(String(e),"deflate-raw","df")},async decompress(e){return r(typeof e=="string"?new TextEncoder().encode(e):e,"deflate-raw","df")}};export{t as default};
