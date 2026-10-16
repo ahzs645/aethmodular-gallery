@@ -1,0 +1,1 @@
+import{h as r,m as n}from"./index-kgSchqPg.js";var a={pack:!1,encode:!0,async compress(e){return n(String(e),"deflate","zl")},async decompress(e){return r(typeof e=="string"?new TextEncoder().encode(e):e,"deflate","zl")}};export{a as default};
