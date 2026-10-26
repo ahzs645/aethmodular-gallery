@@ -4,6 +4,9 @@ Static build of the interactive gallery in [ahzs645/aethmodular](https://github.
 (`gallery/`), published with `gallery/share/publish_pages.py`. This repo holds only the built
 site; change the source repo, not these files.
 
+The prebuilt workflow deploys these files from `main` to Pages. The source-build workflow
+remains available for release-based publication.
+
 **Live page:** https://projects.ahmadjalil.com/aethmodular-gallery/
 
 Built 2026-10-26 19:51 UTC from aethmodular `366a571`.
