@@ -1,1 +1,0 @@
-import{az as e,aA as a}from"./index-_dCGx580.js";var o={pack:!1,encode:!0,async compress(r){return a(String(r),"brotli","br")},async decompress(r){return e(typeof r=="string"?new TextEncoder().encode(r):r,"brotli","br")}};export{o as default};

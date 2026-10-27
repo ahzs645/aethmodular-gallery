@@ -1,0 +1,1 @@
+import{az as r,aA as a}from"./index-C4RSTsjR.js";var s={pack:!1,encode:!0,async compress(e){return a(String(e),"deflate","zl")},async decompress(e){return r(typeof e=="string"?new TextEncoder().encode(e):e,"deflate","zl")}};export{s as default};
