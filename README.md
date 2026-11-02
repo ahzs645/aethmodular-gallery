@@ -3,9 +3,9 @@
 GitHub Pages site for the interactive gallery in [ahzs645/aethmodular](https://github.com/ahzs645/aethmodular)
 (`gallery/`). **Live page:** https://projects.ahmadjalil.com/aethmodular-gallery/
 
-Latest successful publication: [aethmodular `6f3d7059b2b63da9666c079b0c0eb26e48e518b1`](https://github.com/ahzs645/aethmodular/commit/6f3d7059b2b63da9666c079b0c0eb26e48e518b1)
+Latest successful publication: [aethmodular `77e3f5414ee1501668ec35b5c5b31805cbfe6087`](https://github.com/ahzs645/aethmodular/commit/77e3f5414ee1501668ec35b5c5b31805cbfe6087)
 with [data snapshot `data-43c4e5208748`](https://github.com/ahzs645/aethmodular-gallery/releases/tag/data-43c4e5208748).
-[Deployment run](https://github.com/ahzs645/aethmodular-gallery/actions/runs/41406901556).
+[Deployment run](https://github.com/ahzs645/aethmodular-gallery/actions/runs/41419196819).
 
 Published with `gallery/share/publish_pages.py`: the data (`gallery/app/public/data`, machine paths
 scrubbed) is a release of this repo (`data-<hash>`, asset `gallery-data.tar.gz`), and
