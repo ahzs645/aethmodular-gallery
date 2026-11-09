@@ -13,6 +13,10 @@ scrubbed) is a release of this repo (`data-<hash>`, asset `gallery-data.tar.gz`)
 The files on `main` from before October 2026 are an earlier static build, kept as a fallback
 (`publish_pages.py --branch`); Pages no longer serves them.
 
+## Closeout review candidate
+
+The [7 November closeout candidate record](docs/closeout-candidate-2026-11-07.md) identifies the corrected data archive, its verified Google Drive preservation, and the corresponding source and verification records. Its suggested data tag is `data-accc09aa8eea`; it remains unpublished and is not the live deployment. The record preserves the original `data-82d701248232` base separately for the verified base-plus-overlay review workflow.
+
 ## Data
 
 Filter chemistry and FTIR/HIPS work on SPARTAN sites and the IMPROVE network. Several tabs (Meeting,
