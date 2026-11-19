@@ -1,0 +1,1 @@
+import{j as s,b7 as r}from"./index-CbrYjQTj.js";function e({note:i,children:n}){return s.jsxs(s.Fragment,{children:[s.jsx("ol",{style:{margin:"4px 0 0 18px",lineHeight:1.55},children:n}),i!=null&&s.jsx(r,{children:i})]})}export{e as F};

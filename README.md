@@ -1,23 +1,21 @@
 # Aethmodular graph gallery
 
-GitHub Pages site for the interactive gallery in [ahzs645/aethmodular](https://github.com/ahzs645/aethmodular)
-(`gallery/`). **Live page:** https://projects.ahmadjalil.com/aethmodular-gallery/
+Static build of the interactive gallery in [ahzs645/aethmodular](https://github.com/ahzs645/aethmodular)
+(`gallery/`), published with `gallery/share/publish_pages.py`. This repo holds only the built
+site; change the source repo, not these files.
 
-Latest successful publication: [aethmodular `99cf757327278a7f1bb8429dc43d314331f9cb7a`](https://github.com/ahzs645/aethmodular/commit/99cf757327278a7f1bb8429dc43d314331f9cb7a)
-with [data snapshot `data-2d0f6d39f3b1`](https://github.com/ahzs645/aethmodular-gallery/releases/tag/data-2d0f6d39f3b1).
-[Deployment run](https://github.com/ahzs645/aethmodular-gallery/actions/runs/44551877802).
+The prebuilt workflow deploys these files from `main` to Pages. The source-build workflow
+remains available for release-based publication.
 
-Published with `gallery/share/publish_pages.py`: the data (`gallery/app/public/data`, machine paths
-scrubbed) is a release of this repo (`data-<hash>`, asset `gallery-data.tar.gz`), and
-`.github/workflows/deploy.yml` builds the site from the source repo at a pushed commit and deploys it.
-The files on `main` from before October 2026 are an earlier static build, kept as a fallback
-(`publish_pages.py --branch`); Pages no longer serves them.
+**Live page:** https://projects.ahmadjalil.com/aethmodular-gallery/
+
+Built 2026-11-19 15:29 UTC from aethmodular `962365b9`.
 
 ## Data
 
-Filter chemistry and FTIR/HIPS work on SPARTAN sites and the IMPROVE network. Several tabs (Meeting,
-Calibration, Baselines, Spectral similarity, Blanks) show work in progress on FTIR elemental-carbon
-calibration for Addis Ababa; numbers there are preliminary.
+Filter chemistry and FTIR/HIPS work on SPARTAN sites (Addis Ababa, Beijing, Delhi, Pasadena/JPL) and
+the IMPROVE network. Several tabs (Meeting, Calibration, Baselines, Spectral similarity, Blanks) show
+work in progress on FTIR elemental-carbon calibration for Addis Ababa; numbers there are preliminary.
 
 - IMPROVE data: please cite Malm et al. (1994), J. Geophys. Res. 99, 1347-1370, and see the IMPROVE
   data advisories (http://vista.cira.colostate.edu/IMPROVE/Data/QA_QC/Advisory.htm).

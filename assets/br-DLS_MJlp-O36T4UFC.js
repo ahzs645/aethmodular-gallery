@@ -1,0 +1,1 @@
+import{hu as e,hv as n}from"./index-CbrYjQTj.js";var s={pack:!1,encode:!0,async compress(r){return n(String(r),"brotli","br")},async decompress(r){return e(typeof r=="string"?new TextEncoder().encode(r):r,"brotli","br")}};export{s as default};

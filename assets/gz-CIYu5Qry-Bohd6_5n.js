@@ -1,0 +1,1 @@
+import{hu as r,hv as n}from"./index-CbrYjQTj.js";var a={pack:!1,encode:!0,async compress(e){return n(String(e),"gzip","gz")},async decompress(e){return r(typeof e=="string"?new TextEncoder().encode(e):e,"gzip","gz")}};export{a as default};
